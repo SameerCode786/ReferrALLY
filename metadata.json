@@ -1,0 +1,8 @@
+{
+  "name": "ReferrALLY - Elite Real Estate Network",
+  "description": "A high-performance, functional home page for an exclusive real estate agent community, featuring smooth animations and a premium aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
